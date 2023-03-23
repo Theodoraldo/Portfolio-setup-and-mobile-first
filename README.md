@@ -29,7 +29,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="Logo.PNG" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Portfolio-setup-and-mobile-first</b></h3>
@@ -95,28 +95,6 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[HTML]**
-- **[CSS]**
-- **[GitHub]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -136,7 +114,7 @@ gem install rails
 Clone this repository to your desired folder:
 
 cd my-folder
-git clone git@github.com:https://github.com/Theodoraldo/Hello-Microverse
+git clone git@github.com:https://github.com/Theodoraldo/Portfolio-setup-and-mobile-first.git
 
 ### Install
 
@@ -192,6 +170,12 @@ Example:
 <!-- AUTHORS -->
 
 ## 👥 Theodore <a name="authors"></a>
+
+👤 **Theodore Osei Asimeng**
+
+- GitHub: [@githubhandle](https://github.com/Theodoraldo)
+- Twitter: [@twitterhandle](https://twitter.com/AsimengOse33947)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/theodore-asimeng-osei-80075125b/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
