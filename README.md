@@ -1,4 +1,5 @@
 # Portfolio-setup-and-mobile-first
+
 <a name="readme-top"></a>
 
 <!--
@@ -55,7 +56,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[My first Microverse Project]** is a...
+**[My first Microverse Project]** is a Potfolio project I build.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -84,28 +85,6 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[HTML]**
-- **[CSS]**
-- **[GitHub]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -118,16 +97,14 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
- gem install rails
-
+gem install rails
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-  cd my-folder
-  git clone git@github.com:https://github.com/Theodoraldo/Hello-Microverse
-
+cd my-folder
+git clone git@github.com:https://github.com/Theodoraldo/Portfolio-setup-and-mobile-first.git
 
 ### Install
 
@@ -184,19 +161,11 @@ Example:
 
 ## 👥 Theodore <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Theodore Osei Asimeng**
 
-👤 **Misal Alazeem**
-
-- GitHub: [@githubhandle](https://github.com/misalazeem)
-- Twitter: [@twitterhandle](N/A)
-- LinkedIn: [LinkedIn](N/A)
-
-👤 **Raphael Miyoyo**
-
-- GitHub: [@githubhandle](https://github.com/rmiyoyo)
-- Twitter: [@twitterhandle](N/A)
-- LinkedIn: [LinkedIn](N/A)
+- GitHub: [@githubhandle](https://github.com/Theodoraldo)
+- Twitter: [@twitterhandle](https://twitter.com/AsimengOse33947)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/theodore-asimeng-osei-80075125b/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,9 +175,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Javascript]**
+- [ ] **[CSS grid]**
+- [ ] **[Responsive]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
